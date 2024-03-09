@@ -1,5 +1,5 @@
 # CodeForces_Activity_Tracker
-### CodeForces API-based online status tracker that runs for free using google sheets and Google Apps Script (GAS)
+### CodeForces API-based online status tracker that runs for free using google sheets through Google Apps Script (GAS)
 
 This project only tracks the `online` status on the CodeForces website along with some other basic info from the API about each user, it relies on google sheets as front end & database and google apps script triggers meaning no hosting costs
 
