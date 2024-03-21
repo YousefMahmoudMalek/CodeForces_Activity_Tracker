@@ -13,7 +13,7 @@ Features are 
 
   
 # Setup
-As a prerequisite: you'll first need a throwaway CodeForces account with every person you want to track followed, you can use the attached selenium script to go through every handle and follow, after which you need to generate an **API key** and **API secret** from [this page](https://codeforces.com/settings/api)
+As a prerequisite: you'll first need a throwaway CodeForces account with every person you want to track followed, you can use [this script](https://github.com/YousefMahmoudMalek/CodeForces_Activity_Tracker/blob/main/add-friends.py) to follow all the handles automatically, after which you need to generate an **API key** and **API secret** from [this page](https://codeforces.com/settings/api)
 
 First step is to make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1W3XTmMHAS3upssMy-xqlS8rm-NPkGmnV-RtQhmZ6ztE/edit#gid=39384800)
 
